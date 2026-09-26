@@ -2,21 +2,21 @@
 
 ## What I do
 
-- **Production systems** — Full-stack platforms from inception to deployment (Streamlit analytics, FastAPI services, Azure cloud)
-- **Computer vision** — Semantic segmentation, medical imaging, real-world deployment on constrained data
-- **Research with rigor** — Controlled experiments, statistical validation, reproducible methodology
+- **Production systems** - Full-stack platforms from inception to deployment (Streamlit analytics, FastAPI services, Azure cloud)
+- **Computer vision** - Semantic segmentation, medical imaging, real-world deployment on constrained data
+- **Research with rigor** - Controlled experiments, statistical validation, reproducible methodology
 
 ## Recent work
 
-**Intertrac Advanced** — Maritime analytics platform that replaced a £450K/year legacy system. 95% latency improvement, 12,000+ vessels tracked, production-deployed on Azure.
+**Intertrac Advanced** - Maritime analytics platform that replaced a £450K/year legacy system. 95% latency improvement, 12,000+ vessels tracked, production-deployed on Azure.
 
-**VERDICT** — Multi-LLM evaluation framework for code vulnerability detection. Contrary finding: single strong models beat weak ensembles. Full reproducibility on free hardware.
+**VERDICT** - Multi-LLM evaluation framework for code vulnerability detection. Contrary finding: single strong models beat weak ensembles. Full reproducibility on free hardware.
 
-**Dietary Monitoring Algorithm** — Semantic segmentation of food images on FoodSeg103 benchmark. Progressed from 27.5% mIoU (CNN baseline) to 40% (Transformer), +40% relative improvement.
+**Dietary Monitoring Algorithm** - Semantic segmentation of food images on FoodSeg103 benchmark. Progressed from 27.5% mIoU (CNN baseline) to 40% (Transformer), +40% relative improvement.
 
-**AI Doctor** — Multi-modal medical diagnostic system fusing voice, text, and images. 288 automated tests, 89% coverage, production-ready with REST API and CLI.
+**AI Doctor** - Multi-modal medical diagnostic system fusing voice, text, and images. 288 automated tests, 89% coverage, production-ready with REST API and CLI.
 
-**Retinal Cyst Detector** — Interpretable classical computer vision pipeline (no deep learning). Fully auditable, runs on CPU, deployed in healthcare settings.
+**Retinal Cyst Detector** - Interpretable classical computer vision pipeline (no deep learning). Fully auditable, runs on CPU, deployed in healthcare settings.
 
 ## Stack
 
