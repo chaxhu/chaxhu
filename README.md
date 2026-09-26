@@ -1,8 +1,8 @@
-# Hi! I'm Pranit. I build intelligent systems and solve complex problems using data science and AI.
+Hi! I'm Pranit👋 (chaxhu is my gamertag😁).
 
 ## What I do
 
-- **Production systems** - Full-stack platforms from inception to deployment (Streamlit analytics, FastAPI services, Azure cloud)
+- **Production systems** - Full-stack platforms from inception to deployment (Streamlit analytics, FastAPI services, Azure cloud, AWS)
 - **Computer vision** - Semantic segmentation, medical imaging, real-world deployment on constrained data
 - **Research with rigor** - Controlled experiments, statistical validation, reproducible methodology
 
@@ -28,6 +28,7 @@ Python • PyTorch • Computer Vision (OpenCV, scikit-image) • Data (pandas, 
 - Building products people actually use
 - Understanding how to turn technical solutions into business value
 - Computer vision in healthcare, security, and industrial automation
+- And LOVE to Cook! :)
 
 ## Let's work together
 
