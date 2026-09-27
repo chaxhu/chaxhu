@@ -1,5 +1,6 @@
-Hi! I'm Pranit👋 (chaxhu is my gamertag😁).
+# Hi! I'm Pranit👋 (chaxhu is my gamertag😁).
 
+and here's a little about myself :)
 ## What I do
 
 - **Production systems** - Full-stack platforms from inception to deployment (Streamlit analytics, FastAPI services, Azure cloud, AWS)
